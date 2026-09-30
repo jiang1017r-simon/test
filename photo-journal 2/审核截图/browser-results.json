@@ -1,0 +1,47 @@
+{
+  "errors": [],
+  "externalRequests": [],
+  "dimensions": [
+    {
+      "width": 1440,
+      "documentWidth": 1440
+    },
+    {
+      "width": 1366,
+      "documentWidth": 1366
+    },
+    {
+      "width": 1920,
+      "documentWidth": 1920
+    },
+    {
+      "width": 390,
+      "documentWidth": 390
+    },
+    {
+      "width": 360,
+      "documentWidth": 360
+    }
+  ],
+  "checks": [
+    "file:// assets",
+    "11 scenes",
+    "19 unchanged photos",
+    "desktop four-step scroll and rewind",
+    "start button",
+    "three replays",
+    "egg open/Escape/focus",
+    "responsive overflow",
+    "reduced motion",
+    "no JavaScript fallback"
+  ],
+  "status": "passed",
+  "finalChecks": [
+    "offline browser context",
+    "desktop final caption within viewport",
+    "desktop and mobile egg within viewport",
+    "mobile and reduced-motion color caption",
+    "memory cleanup at final photo",
+    "image failure fallback"
+  ]
+}
