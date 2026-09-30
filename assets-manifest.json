@@ -1,0 +1,287 @@
+[
+  {
+    "id": "P01",
+    "file": "photos/photo-01.jpeg",
+    "original_filename": "11781.jpeg",
+    "description": "红衣与花冠侧身肖像",
+    "width": 1561,
+    "height": 2460,
+    "first_or_primary_scenes": "02",
+    "sha256": "6f8b7382185493efa13112457e5a6223773b174e17a82ad62948f39f885eb1c2",
+    "default_fit": "contain",
+    "focus": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": "P02",
+    "file": "photos/photo-02.jpeg",
+    "original_filename": "c838664396496933b9878e5bb2dc8a8f.jpeg",
+    "description": "黑裙正面肖像，原图带白色杂志边框",
+    "width": 1487,
+    "height": 2174,
+    "first_or_primary_scenes": "02",
+    "sha256": "525d919e376a687583b7ce6f408f8e4900f41c7f7c19e1a3912c0d59cdc84314",
+    "default_fit": "contain",
+    "focus": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": "P03",
+    "file": "photos/photo-03.jpeg",
+    "original_filename": "9caf417eddb7118ecbc02d79ffd981d2.jpeg",
+    "description": "黑衣坐姿，原图带相机取景界面",
+    "width": 1115,
+    "height": 1536,
+    "first_or_primary_scenes": "03",
+    "sha256": "34bbb19243eb5b3070e02cb21a954fc116a22eddc35c498b20bd2fcd001bf75d",
+    "default_fit": "contain",
+    "focus": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": "P04",
+    "file": "photos/photo-04.jpeg",
+    "original_filename": "fe375ed46398537ff4669f9976e5c95f.jpeg",
+    "description": "横向肖像，原图带黑色胶片边框",
+    "width": 2400,
+    "height": 1600,
+    "first_or_primary_scenes": "02",
+    "sha256": "7ad86419648c4bfb1705f4fb938fba323f6d40512dccb03a70a508c4e89b5b66",
+    "default_fit": "contain",
+    "focus": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": "P05",
+    "file": "photos/photo-05.jpeg",
+    "original_filename": "89a8fdf92855495d1735b4919e250e93.jpeg",
+    "description": "室内白衣自然笑容",
+    "width": 1152,
+    "height": 1536,
+    "first_or_primary_scenes": "03",
+    "sha256": "8a5d2a03825bf40d413e10d6ef86833667abf9805061c27a6c9ab8342ced1ac8",
+    "default_fit": "contain",
+    "focus": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": "P06",
+    "file": "photos/photo-06.jpeg",
+    "original_filename": "e265aee282024825fd0225a27711ad3f.jpeg",
+    "description": "窗边坐姿，窗外绿色田野",
+    "width": 1152,
+    "height": 1536,
+    "first_or_primary_scenes": "04",
+    "sha256": "d14babc5108231529e155346215625922c61fd8d4641405090ca8478b5b30d29",
+    "default_fit": "contain",
+    "focus": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": "P07",
+    "file": "photos/photo-07.jpeg",
+    "original_filename": "bcfbdcc9f34ab48a5c127a2cc815b1c5.jpeg",
+    "description": "白裙坐在草坪与树旁",
+    "width": 1536,
+    "height": 1152,
+    "first_or_primary_scenes": "04",
+    "sha256": "2c8fea2b57a385652baca4edabe2d2d47badbc6565a6eea3cd052651cd21a158",
+    "default_fit": "contain",
+    "focus": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": "P08",
+    "file": "photos/photo-08.jpeg",
+    "original_filename": "11774.jpeg",
+    "description": "树下肖像，原图带 Summer 字样",
+    "width": 1158,
+    "height": 1536,
+    "first_or_primary_scenes": "04",
+    "sha256": "5a7c4a79972931c8650a9fee6d15503b1c12bbc61ec78c2876b83befdd0854b0",
+    "default_fit": "contain",
+    "focus": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": "P09",
+    "file": "photos/photo-09.jpeg",
+    "original_filename": "bb3a94e5182c6ebf57a837779ffc7664.jpeg",
+    "description": "花丛自拍，手持花束",
+    "width": 1152,
+    "height": 1536,
+    "first_or_primary_scenes": "04",
+    "sha256": "e27a74fe67c33c3e85dccb19f77c7e9201a8a9c64e70d6359e92e6870f44aa88",
+    "default_fit": "contain",
+    "focus": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": "P10",
+    "file": "photos/photo-10.jpeg",
+    "original_filename": "5b66e476b6b21852ae2d2fa166e0629b.jpeg",
+    "description": "橙色上衣室内自拍",
+    "width": 1152,
+    "height": 1536,
+    "first_or_primary_scenes": "05",
+    "sha256": "e364d88997466dc97662a0dab239f9a6c26adee0216b1cb689cce05f16473e12",
+    "default_fit": "contain",
+    "focus": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": "P11",
+    "file": "photos/photo-11.jpeg",
+    "original_filename": "601e3ad67c7df366971e54b51c0b0c03.jpeg",
+    "description": "浅色上衣侧身肖像",
+    "width": 864,
+    "height": 1536,
+    "first_or_primary_scenes": "05、07（有意重复）",
+    "sha256": "83ce260a241757e052fbc9c66da87cd91392ac7519fb1550943e4d9327db2790",
+    "default_fit": "contain",
+    "focus": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": "P12",
+    "file": "photos/photo-12.jpeg",
+    "original_filename": "46ae7e2749f7e08bfd0f2d14fb7598a4.jpeg",
+    "description": "蓝色相机镜面自拍，横图",
+    "width": 1536,
+    "height": 1152,
+    "first_or_primary_scenes": "06",
+    "sha256": "30d0a1623efb9395b9a1c06fefc263b327ab752af206e1d179b0d18b1db0005e",
+    "default_fit": "contain",
+    "focus": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": "P13",
+    "file": "photos/photo-13.jpeg",
+    "original_filename": "9219.jpeg",
+    "description": "白色衣袖室内自拍",
+    "width": 1152,
+    "height": 1536,
+    "first_or_primary_scenes": "05",
+    "sha256": "d578c58583799f27988c637e455f04088a5b3b5c59e30c98b9934285b1b35b3f",
+    "default_fit": "contain",
+    "focus": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": "P14",
+    "file": "photos/photo-14.jpeg",
+    "original_filename": "f99f8f3303c90cfd4c0023cb0a9f7866.jpeg",
+    "description": "咖啡店绿植旁黑衣坐姿",
+    "width": 1152,
+    "height": 1536,
+    "first_or_primary_scenes": "07",
+    "sha256": "6e90edbf71a3e81aa8787aa8bcd0b0dd3458896d2e95176372c0b05c285be28e",
+    "default_fit": "contain",
+    "focus": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": "P15",
+    "file": "photos/photo-15.jpeg",
+    "original_filename": "11767.jpeg",
+    "description": "楼梯旁黑衣站姿",
+    "width": 1152,
+    "height": 1536,
+    "first_or_primary_scenes": "07",
+    "sha256": "a516de735cde10e58c44d33fd13f16a50b89522285391a41653b7f0b1b105967",
+    "default_fit": "contain",
+    "focus": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": "P16",
+    "file": "photos/photo-16.jpeg",
+    "original_filename": "9baf022993ba20d7aab9ee9b4a18f252.jpeg",
+    "description": "林间岩石旁白裙笑容",
+    "width": 1152,
+    "height": 1536,
+    "first_or_primary_scenes": "03",
+    "sha256": "d72faf7e0236fa245e2a847baf316b75ac0493072a9bb9e4d783503961565867",
+    "default_fit": "contain",
+    "focus": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": "P17",
+    "file": "photos/photo-17.jpeg",
+    "original_filename": "11765.jpeg",
+    "description": "夜晚路边坐姿笑容",
+    "width": 1157,
+    "height": 1536,
+    "first_or_primary_scenes": "03、10（情绪主图）",
+    "sha256": "064651b4c2a5e9956729f5f19950cea6a3a9dc7d312d7283e5b0f440e1dc11d1",
+    "default_fit": "contain",
+    "focus": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": "P18",
+    "file": "photos/photo-18.jpeg",
+    "original_filename": "e22e9c3770be6b19f692889d82830e39.jpeg",
+    "description": "头顶鲨鱼玩偶的户外照片",
+    "width": 1152,
+    "height": 1536,
+    "first_or_primary_scenes": "08",
+    "sha256": "837cb93466d350574578cfe4e524951cddc38cb746bfd760e2e3506263f25917",
+    "default_fit": "contain",
+    "focus": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": "P19",
+    "file": "photos/photo-19.jpeg",
+    "original_filename": "b72843037a0608b83106605805847f89.jpeg",
+    "description": "手持冰淇淋、比手势的自拍",
+    "width": 1320,
+    "height": 2347,
+    "first_or_primary_scenes": "08",
+    "sha256": "b4550f778b2ae7e688b1a317770f9aa72df71f7fb7afd03cf516837d5733581e",
+    "default_fit": "contain",
+    "focus": [
+      0.5,
+      0.5
+    ]
+  }
+]
